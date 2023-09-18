@@ -1,0 +1,31 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Rest API for E-Resume",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurpreet240797/RESTApi.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Gurpreet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurpreet240797/RESTApi/issues"
+  },
+  "homepage": "https://github.com/Gurpreet240797/RESTApi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
