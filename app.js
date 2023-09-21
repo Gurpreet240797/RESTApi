@@ -11,7 +11,7 @@ const projects = {
             github: 'https://github.com/Gurpreet240797/Mental-Health-Well-Being',
             ID: uuidv4(),
             description: "Created a web-based mental health support app with efficient patient access and support management using Aglie and Scrum methodology.",
-            featured: false,
+            featured: true,
             projectName: "Mental Health Well Being",
             thumbnail: "https://cmha.ca/wp-content/uploads/2023/03/MicrosoftTeams-image-5.png",
             configuration: [], 
@@ -19,7 +19,7 @@ const projects = {
             conceptsUsed: ["Developed an application that accelerates patient access to mental health support while optimizing the handling of support requests from counselors and doctors, contributing to enhanced patient care and healthcare professional efficiency.","Modelled web service with a three-tier architecture using ReactJS, Java Spring Boot, and MongoDB, collaborated closely with the team to implement features, enhance functionality, and troubleshoot issues.","Collaborated with teams to optimize production strategies and devised a systematic approach for organizing and documenting future system requirements.","Successfully delivered the project utilizing Scrum methodology, resulting in the development of a web-based mental health support system."],
             tags: ["Spring Boot"], 
             images: ["https://cmha.ca/wp-content/uploads/2023/03/MicrosoftTeams-image-5.png"],
-            isFeatured: false
+            isFeatured: true
         },
         {   
             github: 'https://github.com/Gurpreet240797/Automated-Hospital-Path-Labelling',
@@ -67,7 +67,7 @@ const projects = {
             github: 'https://github.com/Gurpreet240797/e-resume',
             ID: uuidv4(),
             description: "Comprehensive portfolio showcasing frontend and backend skills with RESTful API integration for projects and experience.",
-            featured: true,
+            featured: false,
             projectName: "Gurpreet Singh- Portfolio",
             thumbnail: "https://user-images.githubusercontent.com/22547513/269364367-70296ba6-2326-40c0-94f9-5a4d64120013.png",
             configuration: [], 
@@ -75,7 +75,7 @@ const projects = {
             conceptsUsed: ["Developed portfolio using frontend and backend technology to represent industry experience utilizing REST Api for projects.", "Utilized React Hooks for efficient state management within the application, ensuring smooth data handling and reactivity.", "Configured React-Router to enable seamless navigation and serve multiple components, enhancing user experience by organizing content into separate tabs.", "Developed functional components that interact seamlessly with RESTful APIs, enabling dynamic data retrieval and display, Employed the Bootstrap library to create a mobile-responsive and user-centric design, ensuring a consistent and engaging user interface across various devices."],
             tags: ["React.js", "Node.js", "RESTApi"], 
             images: ["https://user-images.githubusercontent.com/22547513/269364367-70296ba6-2326-40c0-94f9-5a4d64120013.png"],
-            isFeatured: true
+            isFeatured: false
         },
         {   
             github: 'https://github.com/Gurpreet240797/PlagiarismDetectionTool',
