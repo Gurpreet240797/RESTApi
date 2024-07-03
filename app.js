@@ -18,7 +18,7 @@ const projects = {
             tagLine: "Elevating Mental Health Support with Innovative Technology",
             conceptsUsed: ["Developed an application that accelerates patient access to mental health support while optimizing the handling of support requests from counselors and doctors, contributing to enhanced patient care and healthcare professional efficiency.","Modelled web service with a three-tier architecture using ReactJS, Java Spring Boot, and MongoDB, collaborated closely with the team to implement features, enhance functionality, and troubleshoot issues.","Collaborated with teams to optimize production strategies and devised a systematic approach for organizing and documenting future system requirements.","Successfully delivered the project utilizing Scrum methodology, resulting in the development of a web-based mental health support system."],
             tags: ["Spring Boot"], 
-            images: ["https://cmha.ca/wp-content/uploads/2023/03/MicrosoftTeams-image-5.png"],
+            images: ["https://www.planstreetinc.com/wp-content/uploads/2021/07/what-is-mental-health-1130x675.png"],
             isFeatured: true
         },
         {   
